@@ -1,0 +1,22 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /demo
+spring:
+  security:
+    user:
+      name: halen
+      password: 123456
+management:
+  server:
+    port: 8090
+    servlet:
+      context-path: /sys
+
+  endpoint:
+    health:
+      show-details: always
+  endpoints:
+    web:
+      exposure:
+        include: '*'
