@@ -10,6 +10,7 @@
         <module>spring-boot-demo-properties</module>
         <module>spring-boot-demo-actuator</module>
         <module>spring-boot-demo-admin</module>
+        <module>spring-boot-demo-logback</module>
     </modules>
     <packaging>pom</packaging>
     <name>spring-boot-demo</name>
