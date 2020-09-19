@@ -14,6 +14,7 @@
         <module>spring-boot-demo-log-aop</module>
         <module>spring-boot-demo-dynamic-datasource</module>
         <module>spring-boot-demo-exception-handler</module>
+        <module>spring-boot-demo-template-freemarker</module>
     </modules>
     <packaging>pom</packaging>
     <name>spring-boot-demo</name>
