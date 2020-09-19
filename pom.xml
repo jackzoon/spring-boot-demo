@@ -13,6 +13,7 @@
         <module>spring-boot-demo-logback</module>
         <module>spring-boot-demo-log-aop</module>
         <module>spring-boot-demo-dynamic-datasource</module>
+        <module>spring-boot-demo-exception-handler</module>
     </modules>
     <packaging>pom</packaging>
     <name>spring-boot-demo</name>
