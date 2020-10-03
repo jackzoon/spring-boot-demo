@@ -19,6 +19,7 @@
         <module>spring-boot-demo-template-beetl</module>
         <module>spring-boot-demo-template-enjoy</module>
         <module>spring-boot-demo-orm-jdbctemplate</module>
+        <module>spring-boot-demo-orm-jpa</module>
     </modules>
     <packaging>pom</packaging>
     <name>spring-boot-demo</name>
