@@ -20,6 +20,7 @@
         <module>spring-boot-demo-template-enjoy</module>
         <module>spring-boot-demo-orm-jdbctemplate</module>
         <module>spring-boot-demo-orm-jpa</module>
+        <module>spring-boot-demo-orm-mybatis</module>
     </modules>
     <packaging>pom</packaging>
     <name>spring-boot-demo</name>
