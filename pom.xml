@@ -23,6 +23,7 @@
         <module>spring-boot-demo-orm-mybatis</module>
         <module>spring-boot-demo-orm-mybatis-mapper-page</module>
         <module>spring-boot-demo-orm-mybatis-plus</module>
+        <module>spring-boot-demo-orm-beetlsql</module>
     </modules>
     <packaging>pom</packaging>
     <name>spring-boot-demo</name>
